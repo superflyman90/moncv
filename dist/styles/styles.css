@@ -1,5 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Narrow&family=Roboto:wght@300;400;700&display=swap");
+/*font-family: 'Archivo Narrow', sans-serif;
+font-family: 'Roboto', sans-serif; */
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
-  background: blue;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  background: #1a53ff;
 }
 
 /*# sourceMappingURL=styles.css.map */
