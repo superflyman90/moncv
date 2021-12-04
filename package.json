@@ -1,0 +1,20 @@
+{
+  "name": "moncv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch assets/scss/styles.scss:./dist/styles/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superflyman90/moncv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superflyman90/moncv/issues"
+  },
+  "homepage": "https://github.com/superflyman90/moncv#readme"
+}
